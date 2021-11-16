@@ -1,4 +1,4 @@
-# DAwithPython
+# DAwPython
 Data Analytics with Python
 
 <p>Task 1 - import data from MS Access Database (ACCDB file format)</p>
